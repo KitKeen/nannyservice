@@ -81,3 +81,9 @@ C:\Users\workp\Documents\a\nannyservice\obj\Debug\net7.0\refint\CoffieNanny.dll
 C:\Users\workp\Documents\a\nannyservice\obj\Debug\net7.0\CoffieNanny.pdb
 C:\Users\workp\Documents\a\nannyservice\obj\Debug\net7.0\CoffieNanny.genruntimeconfig.cache
 C:\Users\workp\Documents\a\nannyservice\obj\Debug\net7.0\ref\CoffieNanny.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\MassTransit.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\workp\Documents\a\nannyservice\bin\Debug\net7.0\RabbitMQ.Client.dll
